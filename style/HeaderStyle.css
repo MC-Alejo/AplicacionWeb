@@ -1,0 +1,45 @@
+/*HEADER ESTILO*/
+
+header{
+	width: 100%;
+	height: 1%;
+	background: #475152;
+	text-align: center;
+	position: relative;
+}
+
+header img{
+	display: inline-block;
+}
+
+header .contenedorC{
+	display: inline-block;
+	max-width: 100%;
+	margin: 10px auto;
+}
+
+header h1{
+	float: left;
+	display: inline;
+	font-family: 'Abel', sans-serif;
+	font-size: 100px;
+	color: white;
+	line-height: 136px;
+	margin-right: 11px;
+}
+.nom{
+	color: #fe545c;
+}
+
+.Log{
+	background: #0a0a0a;
+	width:  100%;
+	height: 40px;
+	text-align: left;
+}
+
+.Log label{
+	color: white;
+	line-height: 40px;
+	margin-left: 8px;
+}
