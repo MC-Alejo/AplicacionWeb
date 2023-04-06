@@ -85,5 +85,4 @@ Se debe de editar el archivo conectar.php que se encuentra en la carpeta o direc
 
 
 ## 📄 Licencia
-MIT Public License v3.0
-No puede usarse comencialmente.
+MIT License.
