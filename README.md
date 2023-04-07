@@ -1,11 +1,11 @@
 # 🛒 Despensa 9 de Julio
 
 
-## 📑Descripción
+## Descripción
 Proyecto colaborativo realizado en grupo en 2021 para la cátedra de Programación Avanzada. Esta versión representa una refactorización del proyecto original desarrollado por un compañero, el cual consiste en, una aplicación web para una despensa ficticia, que permita al usuario propietario de la despensa o empleados de la misma, observar, actualizar, borrar y añadir, productos con sus respectivas descripciones y precios.
 
 
-## 🤔 ¿Qué conocimientos y experiencias se obtuvo durante el desarrollo de este proyecto?
+## ¿Qué conocimientos y experiencias se obtuvo durante el desarrollo de este proyecto?
 Durante el desarrollo de este proyecto, se aplicaron y profundizaron conocimientos adquiridos en la cátedra, entre ellos:
 - HTML
 - CSS
@@ -23,7 +23,7 @@ El objetivo de mostrar este proyecto, a pesar de que es un sistema simple y bás
 Esto permite apreciar la evolución de mis habilidades y conocimientos en el desarrollo de aplicaciones web, a lo largo del tiempo, lo cual considero que es valioso, ya que, la evolución y la constante mejora, demuestra que tan comprometidos estamos con el crecimiento personal y profesional.
 
 
-## 💻 Tecnologías
+## Tecnologías
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -32,7 +32,7 @@ Esto permite apreciar la evolución de mis habilidades y conocimientos en el des
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
-## 🎨 Colores utilizados
+## Colores utilizados
 | Color             | Hex                  |
 | ----------------- | ---------------------|
 | Dim Gray | ![#6D6D6D](https://via.placeholder.com/10/6D6D6D?text=+) #6D6D6D |
@@ -61,7 +61,7 @@ Capturas de pantalla del proyecto:
 ![Captura del proyecto N7](https://github.com/MC-Alejo/AplicacionWeb/blob/main/capturas/Captura7.png?raw=true)
 
 
-## ✒️ Autor(es)
+## Autor(es)
 **Alejo Cabana**
 * [LinkedIn](https://www.linkedin.com/in/mc-alejo/)
 
@@ -84,5 +84,5 @@ Para probar el programa se hará uso de [XAMPP](https://www.apachefriends.org/es
 Se debe de editar el archivo conectar.php que se encuentra en la carpeta o directorio llamado "includes", con la configuración de la conexión a su base de datos, actualizando la dirección IP, usuario, contraseña y nombre de la base de datos según corresponda, ya que, puede que no coincida con la configuración que se usó en el desarrollo.
 
 
-## 📄 Licencia
+## Licencia
 MIT License.
